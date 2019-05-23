@@ -1,0 +1,8 @@
+[package]
+name = "gol"
+version = "0.1.0"
+authors = ["Corey Richardson <corey@octayn.net>"]
+edition = "2018"
+
+[dependencies]
+fixedbitset = "0.1.9"
